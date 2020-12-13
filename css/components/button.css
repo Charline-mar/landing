@@ -1,0 +1,10 @@
+.btn-banner {
+	background: white;
+	border-radius: 4px;
+	padding: 10px 20px;
+	font-family: 'Oswald';
+	font-size: 25px;
+}
+
+.btn-banner:hover {
+	background-color: #a98359;

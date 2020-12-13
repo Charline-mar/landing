@@ -1,0 +1,15 @@
+.containerCookies {
+	display: inline-flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	flex-wrap: wrap;
+    max-width: 1024px;
+    margin: 10px auto;
+    object-fit: cover;
+    justify-content: center;
+ }
+
+#cookies {
+	width: 230px;
+}
+

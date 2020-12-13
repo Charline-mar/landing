@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+@import url('components/container.css');
+@import url('components/button.css');
+@import url('components/banner.css');
+@import url('components/card.css');
+@import url('components/icon.css');
+@import url('components/containerCookies.css');
+
+body{
+	font-family: 'Roboto', sans-serif;
+	font-size: 30px;
+	text-align: center;
+	color: white;
+	margin: 0px;
+}
+
+h1 {
+	font-family: 'Oswald';
+	font-size: 30px;
+	color: white;
+}
+
+h2, h3 {
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	color: white;
+}
+
+h4 {
+	color: #3e1a13;
+	font-size: 25px;
+	font-family: 'Monoton';
+}
+
+a {
+	text-decoration: none;
+	color: #3f1a13;
+}
+
+p {
+	color: #3f1a13;
+	display: block;
+  	margin: 1em;
+  	font-family: 'Monoton';
+}
